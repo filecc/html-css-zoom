@@ -19,12 +19,29 @@ body {
     min-height: 100vh;
 }
 
+.d-flex{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.justify-end{
+    justify-content: flex-end;
+}
+
+.gx-1{
+    gap: 0 1rem;
+}
+
+
 header{
     width: 100%;
     height: 50px;
     padding: .7rem;
 }
 
-header div:first-of-type{
-    width: 100%;
+header div:first-of-type div{
+    background-color: var(--top-bg);
+    padding: .3rem .4rem;
+    border-radius: .2rem;
+    font-size: .8rem;
 }
