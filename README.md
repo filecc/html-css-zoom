@@ -27,6 +27,11 @@ Below is how the page should looks like
 
 ![Page](./zoom.png)
 
+the result:
+
+![Result](./zoom_call_result.png)
+
+
 
 ### Links
 
@@ -34,6 +39,7 @@ Below is how the page should looks like
 - Live Site URL: []()
 
 ## My process
+Most long process, for copyng every row and every single image. I use some random link from [https://picsum.photos/](https://picsum.photos) and from [Unsplash](https://source.unsplash.com/random/900×700/?person), mixing up the API with other words. 
 
 ### Built with
 
@@ -41,18 +47,5 @@ Below is how the page should looks like
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-We were required to use Flexbox (with no media query and no other framework). I have create some usueful class, like bootstrap, to helmp me in the process.
-
-
-```html
-
-
-```
-
-```css
-
-```
 
 
